@@ -1,2 +1,2 @@
-# primeiro_reposit-rio
+# primeiro_repositorio
 primeiro repositório GIT/GITHUB
